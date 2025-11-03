@@ -3,7 +3,7 @@
 
     Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-The client, DriverPass, is a driving school that helps students pass their drivers license exam.  They wanted to create an online Learning Management System to help their students review course materials, take practice tests, and schedule one-on-one driving time with an isntructor.
+The client, DriverPass, is a driving school that helps students pass their drivers license exam.  They wanted to create an online Learning Management System to help their students review course materials, take practice tests, and schedule one-on-one driving time with an instructor.
     
     What did you do particularly well?
 
